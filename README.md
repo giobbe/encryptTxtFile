@@ -1,5 +1,5 @@
 Disclaimer
-This repository contains code that demonstrates how to create an encrypted zip file using the Lingala.zip4j library
+This repository contains code that demonstrates how to create an encrypted zip file using the Lingala.zip4j library using an hardcoded password.
 
 Its intended for demonstrative purposes only, and not to be used as-is.
 
